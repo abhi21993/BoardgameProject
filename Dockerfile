@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11
+FROM adoptopenjdk/openjdk11  #this is jdk dockerfile
     
 EXPOSE 8080
  
